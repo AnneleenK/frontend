@@ -1,8 +1,9 @@
-# Best Practice
+# Best Practice HTML,CSS & JAVASCRIPT
 
-* Use intention-revealing names for var and functions
-* Always close your tags
-* 
+* Gebruik begrijpelijke,praktische variable namen
+* Sluit altijd je tags
+* Geen inline javascript
+* Maak het leesbaar (comments, enter space, tabs)
+* semantische tags gebruiken
 
-
-[bron:](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
+bron: https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
